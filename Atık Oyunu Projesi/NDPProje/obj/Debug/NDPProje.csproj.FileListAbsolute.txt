@@ -1,0 +1,10 @@
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\bin\Debug\NDPProje.exe.config
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\bin\Debug\NDPProje.exe
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\bin\Debug\NDPProje.pdb
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.csprojAssemblyReference.cache
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.formAtikOyun.resources
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.Properties.Resources.resources
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.GenerateResource.cache
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.CoreCompileInputs.cache
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.exe
+C:\Users\sevdet\source\repos\NDPProje\NDPProje\obj\Debug\NDPProje.pdb
